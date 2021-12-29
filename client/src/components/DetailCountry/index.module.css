@@ -1,0 +1,52 @@
+.main {
+    margin: 0; padding: 0;
+    width: 100vw; min-height: 100vh;
+    background-image: url('https://diariodefriki.files.wordpress.com/2018/10/saludos-amigos-disneyscreencaps-com-1012.jpg');
+    background-size: cover;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
+    background-color:   #a2b1c1;
+  }
+
+.homebtn {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    background-color:transparent;
+    color: rgb(23, 90, 10);
+    border-radius: 15px;
+    border-color: rgb(23, 90, 10);
+    cursor: pointer;
+    font-size: 36px;
+      
+  }
+  
+  .image {
+    position: absolute;
+    top: 15%;
+    left: 3%;
+    background-color: transparent;
+  }
+
+  .info {
+    position: absolute;
+    top: 25%;
+    left: 38%;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(8, 27, 4);
+  }
+
+  .act {
+    position: absolute;
+    top: 45%;
+    left: 3%;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(8, 27, 4);
+    
+  }
+
+
+
+

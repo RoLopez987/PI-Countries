@@ -1,0 +1,33 @@
+
+.main {
+    margin: 0; padding: 0;
+    width: 100vw; min-height: 100vh;
+    background-image: url("https://diariodefriki.files.wordpress.com/2018/10/saludos-amigos-disneyscreencaps-com-691.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  }
+  
+.title{
+ font-size: 90px ;
+ color: #320f08; 
+ position: absolute;
+ top: 18%;
+ left: 10%;
+
+}
+
+.btn{
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    background-color: #320f08;
+    color: #FFFFFF;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 36px;
+    
+   }
+   
+   

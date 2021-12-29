@@ -1,0 +1,19 @@
+.main {
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    background-color: transparent;
+  }
+  .ul {
+    list-style: none;
+    display:inline-flex
+ }
+ .btn {
+  border-color: black;
+  border-radius: 50px;
+  width: 2.2em;
+  height: 2.2em;
+  cursor: pointer;
+  background-color:rgb(103, 103, 124); 
+  color:black
+ }

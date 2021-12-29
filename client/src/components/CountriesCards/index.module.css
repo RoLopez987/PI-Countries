@@ -1,0 +1,7 @@
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 150px ;
+    justify-content: center;
+ }
